@@ -1,0 +1,4 @@
+Kani Rust Verifier - Successful Formal Proof
+Property: Bound Invariant (-1.0 <= x <= 1.0)
+Status: VERIFIED
+Vulnerability Mitigated: IEEE 754 NaN (Not-a-Number) Injection
